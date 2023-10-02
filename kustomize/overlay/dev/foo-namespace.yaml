@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_21accae2-7f07-4d56-949e-fa8d37c80ca6
+    project-id: project_b871dd27-013f-43b5-9bbb-6e33add0be14
+    project-name: fatjoe
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
