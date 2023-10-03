@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Service
+metadata:
+  annotations: {}
+  labels:
+    app: kelcier
+  name: kelcier
+spec:
+  selector:
+    app: kelcier
